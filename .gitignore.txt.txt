@@ -1,0 +1,9 @@
+db.sqlite3
+__pycache__
+.vscode
+.project
+static
+media
+whoosh_index
+
+i am not ignoring this as per your requirement to have some data with it
